@@ -1,6 +1,6 @@
 # wordpress-docker-vm
-Set up Wordpress on Virtual Box and Docker
-
+# To Test Wordpres in a VM, it is easy with Docker
+# use following steps 
 create a vitual machine with linux server(example ubuntu 20.01)
 connect to it
 
