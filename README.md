@@ -1,5 +1,5 @@
 # wordpress-docker-vm
-# To Test Wordpres in a VM, it is easy with Docker
+To test wordpress in a VM, it is easy with Docker
 # use following steps 
 create a vitual machine with linux server(example ubuntu 20.01)
 connect to it
